@@ -1,0 +1,53 @@
+body, html {
+    height: 100%;
+  }
+  .space{
+      height: 5px;
+  }
+  .text{
+    height:500px;
+    text-align: center;
+    padding: 25px;
+    background-color:gray;
+    font-size:36px;
+    color: white;
+  }
+  .parallax-front {
+    /* The image used */
+    background-image: url('bedu_front.png');
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax-buss {
+    /* The image used */
+    background-image: url('bedu_buss.png');
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax-eng {
+    /* The image used */
+    background-image: url('bedu_eng.png');
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

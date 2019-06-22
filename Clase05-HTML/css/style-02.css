@@ -1,0 +1,57 @@
+body{
+  background-color: gainsboro;
+}
+a img{
+  width: 22px;
+  height: 22px;
+}
+#nav{
+  background-color: rgb(151, 158, 163);
+  padding: 20px;
+}
+#search{
+  background-color: rgb(179, 183, 187);
+  padding: 9px;
+}
+button{
+  background-color: gray;
+  color: white;
+}
+.row:after{
+  content: "";
+  clear: both;
+  display: table;
+}
+.column{
+  float: left;
+  width: 23%; 
+  padding: 5px;
+}
+.column img{
+  width: 100%;
+}
+.como-usar p{
+  width: 60%;
+  float: left;
+  }
+  .como-usar img{
+width: 40%;
+float: left;
+}
+.div-form{
+  width: 45%;
+  float: left; 
+}
+.div-form input{
+  width: 95%;
+  height: 40px;
+  margin-bottom: 20px;
+}
+.div-form textarea{
+  width: 95%;
+  height: 90px;
+  margin-bottom: 20px;
+}
+.mapa{
+  margin-top: 20px;
+}

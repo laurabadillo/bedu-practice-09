@@ -1,0 +1,51 @@
+Crear repositorio 
+git init 
+
+Preparar archivos 
+gid add .
+
+Agregar commit 
+git commit -m "Mi comentario"
+
+Agregar remoto 
+git remote add origin urlDelServidor 
+
+Enviar al servidor 
+git push -u origin nombreDelBranch 
+
+Clonar 
+remoto 
+git clone urlDelServidor
+local 
+git clone C://users/Documents/Proyecto 
+
+Crear branch 
+git checkout -n nombreDelBranch 
+
+Cambiar de branch 
+git checkout nombreDelBranch
+
+Eliminar 
+git checkout -d nombreDelBranch 
+
+Descargar cambios 
+git pull 
+
+Fusionar 
+git merge nombreDelBranch 
+
+Comparar branch 
+git diff miBranch targetBranch 
+
+En que branch estoy 
+git status 
+
+Ver commits 
+git log 
+
+Eliminar commits previos 
+git reset -hard origin/master 
+
+
+
+

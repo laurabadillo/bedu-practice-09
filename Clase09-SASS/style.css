@@ -1,0 +1,53 @@
+body, html {
+    height: 100%;
+  }
+  .space{
+      height: 5px;
+  }
+  .text{
+    height:500px;
+    text-align: center;
+    padding: 25px;
+    background-color:gray;
+    font-size:36px;
+    color: white;
+  }
+  .parallax-front {
+    /* The image used */
+    background-image: url('https://bedu.org/wp-content/uploads/Bedu07_ux_frontend.png');
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax-buss {
+    /* The image used */
+    background-image: url('https://bedu.org/wp-content/uploads/Bedu04_marketing_digital.png');
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .parallax-eng {
+    /* The image used */
+    background-image: url('https://bedu.org/wp-content/uploads/Bedu09_job_hunting.png');
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
